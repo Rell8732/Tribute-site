@@ -1,0 +1,54 @@
+/******Selectors******/
+body {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+h4 {
+  font-weight: lighter;
+}
+
+ul {
+  margin: auto 300px 50px 300px;
+  text-align: left;
+}
+
+li {
+  padding: 5px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+/******ID selectors******/
+#all-div {
+  background-color: lightgrey;
+}
+
+#title {
+  padding: 50px 50px 10px 50px;
+}
+
+#img-div {
+  background-color: white;
+  margin: auto 40px;
+}
+
+#img-caption {
+  padding-bottom: 20px;
+}
+
+#italic {
+  font-style: italic;
+  margin: auto 400px auto 400px;
+  text-align: left;
+}
+
+#link {
+  font-weight: bold;
+  padding-bottom: 20px;
+}
