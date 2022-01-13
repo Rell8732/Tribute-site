@@ -9,7 +9,6 @@ h4 {
 }
 
 ul {
-  margin: auto 300px 50px 300px;
   text-align: left;
 }
 
@@ -44,11 +43,15 @@ img {
 
 #italic {
   font-style: italic;
-  margin: auto 400px auto 400px;
+  padding: 0 10rem;
   text-align: left;
 }
 
 #link {
   font-weight: bold;
   padding-bottom: 20px;
+}
+
+#tribute-info {
+  padding: 0 10rem;
 }
